@@ -1,3 +1,17 @@
+<a name="top"></a>
+
+<p align="center">
+    <img width=150px height="150px" align="center" src="./img/logo.png">
+    <h1 align="center">Visual Studio Code</h1>
+    <p align="center">👨‍🏫 Tutorial de Configuración 👨‍🏫</p>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/github/forks/dkszdp/config-vsc?color=%2347A1DC&label=Forks">
+    <img src="https://img.shields.io/github/stars/dkszdp/config-vsc?color=%2347A1DC&label=Estrellas">
+</p>
+
+<hr>
+
 # ¿Te gustaría tener así Visual Studio Code?
 
 ![Imagen VSC](./img/vsc.png)
@@ -31,3 +45,5 @@
 Para cambiar el tipo de fuente de VSC, deberemos de ir otra vez a la Configuración, y buscaremos Font Fam, y en los siguientes apartados añadir la fuente que nos hayamos descargado.
 - Editor de texto ➡ *aquí escribimmos el nombre de nuestra fuente*  
 ##### [💡 *Si necesitas ayuda, click aquí* 💡](./img/fuente.png)
+
+<p align="right">(<a href="#top">volver arriba</a>)</p>
